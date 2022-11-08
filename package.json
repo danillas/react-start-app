@@ -1,0 +1,7 @@
+{
+  "name": "react-starter-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:danillas/react-start-app.git",
+  "license": "MIT"
+}
